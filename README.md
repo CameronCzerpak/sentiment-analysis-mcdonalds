@@ -1,1 +1,1 @@
-# sentiment-analysis-mcdonalds
+# McDonald's Sentiment Analysis
