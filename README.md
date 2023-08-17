@@ -1,5 +1,4 @@
 # McDonald's Sentiment Analysis
-In Progress...
 
 # Motivation
 Sentiment analysis was a popular topic in the Data Science Fellowship and I wanted to learn about natural language processing.
